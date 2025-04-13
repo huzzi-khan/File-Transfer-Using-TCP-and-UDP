@@ -1,0 +1,16 @@
+[Sun Apr 13 23:01:41 2025
+] huzzi connected.
+[Sun Apr 13 23:01:47 2025
+] huzzi uploaded hero.txt via TCP
+[Sun Apr 13 23:01:55 2025
+] huzzi downloaded hero.txt via TCP
+[Sun Apr 13 23:01:57 2025
+] huzzi disconnected.
+[Sun Apr 13 23:13:55 2025
+] king connected.
+[Sun Apr 13 23:14:02 2025
+] king uploaded villain.txt via TCP
+[Sun Apr 13 23:14:11 2025
+] king downloaded villain.txt via TCP
+[Sun Apr 13 23:14:14 2025
+] king disconnected.

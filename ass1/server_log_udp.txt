@@ -1,0 +1,6 @@
+[Sun Apr 13 23:19:46 2025
+] huzzi uploaded login.txt via UDP
+[Sun Apr 13 23:19:52 2025
+] huzzi downloaded login.txt via UDP
+[Sun Apr 13 23:19:54 2025
+] huzzi disconnected.
